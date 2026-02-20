@@ -5,11 +5,11 @@
 
 ## 🚀 About Me
 
-- 🎓 B.Tech IT Student at SGGS Nanded  
-- 💻 MERN Stack Developer  
+- 🎓 B.Tech IT @ SGGS Institute of Engineering and Technology, Nanded
+- 💻 MERN Stack Developer | Android Developer Enthusiast
 - 🧠 Solved 300+ DSA problems  
 - 🌱 Currently learning System Design & Backend  
-- ⚡ Love building real-world web apps  
+- ⚡ Love building real-world web apps
 
 ---
 
