@@ -32,9 +32,8 @@
 
 ## 🏆 Projects
 
-- 🔹 CampusFlow – Lost & Found System  
+- 🔹 CampusFlow – Lost & Found System  - MERN Stack
 - 🔹 Food Delivery App – MERN + Stripe  
-- 🔹 Smart Coddies Cafe  
 
 ---
 
